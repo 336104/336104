@@ -1,5 +1,5 @@
 ### Hi there 👋
-[<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>](https://img.shields.io/badge/pro-hub-yellow)
+<img src="https://img.shields.io/badge/pro-hub-yellow" />
 <!--
 **336104/336104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
