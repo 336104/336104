@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+[<span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /></span>](https://img.shields.io/badge/pro-hub-yellow)
 <!--
 **336104/336104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
