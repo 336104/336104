@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/pro-hub-yellow" />
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/336104/336104)
 <!--
 **336104/336104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
