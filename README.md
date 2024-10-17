@@ -1,8 +1,6 @@
 ### Hi there 👋
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/336104/336104)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/336104/336104?style=plastic&logo=github)
-
-
 <!--
 **336104/336104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
