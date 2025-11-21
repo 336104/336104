@@ -1,56 +1,34 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I'm+a+Full+Stack+Developer;Code+is+Poetry;Always+Learning..." alt="Typing SVG" />
-</div>
+# Hi there! I'm 336104 👋
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
+Welcome to my GitHub profile! I'm passionate about **Deep Learning** and constantly exploring its vast potential to solve engineering problems.
 
-<h3 align="center">🚀 关于我 (About Me)</h3>
+---
 
-<p align="center">
- 🔭 我目前正在从事 <b>前端/后端/AI 开发</b><br>
- 🌱 我正在深入学习 <b>Rust / Go / Web3</b><br>
- 💬 关于 <b>React, Vue, Python</b> 尽管问我<br>
- 📫 联系方式: <b>your_email@example.com</b>
-</p>
+### 🛠️ Skills & Technologies
 
-<h3 align="center">🛠️ 技术栈 (Tech Stack)</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,react,vue,nodejs,py,java,docker,mysql,redis,vscode,linux&perline=10" />
-  </a>
-</div>
+Here are some of the key technologies and tools I utilize in my deep learning endeavors:
 
-<br>
+- **Languages:** Python, C++
+- **Deep Learning Frameworks & Libraries:** TensorFlow, Keras, PyTorch, Scikit-learn, NumPy, Pandas
+- **Data & Databases:** SQL, NoSQL, Cloud Storage
+- **Tools & Platforms:** Git, Docker
+---
 
-<h3 align="center">📊 GitHub 统计 (Stats)</h3>
-<div align="center">
+### 🌟 Featured Projects
 
-  <a href="https://github.com/你的GitHub用户名">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
+Here are a few highlights of my work. Feel free to explore the repositories for more details:
 
-  <a href="https://github.com/你的GitHub用户名">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight&hide_border=true"/>
-  </a>
+- **[Project 1 Name]**: A detailed explanation of what this project does, its key features, and what technologies were used. Emphasize a significant challenge overcome or an interesting outcome. ([Link to Project 1 Repo](https://github.com/your-username/project1))
 
-</div>
+---
 
-<br>
+### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/你的GitHub用户名">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/你的推特用户名">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:你的邮箱">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=336104&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=336104&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-</div>
+---
+
+### 💬 Connect with Me
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
